@@ -1,0 +1,8 @@
+AccountID,Name,Password,Email,Type,Balance
+001,MATSAP MAEVA,01234,matsap@gmail.com,Savings,55000.0
+002,MATSAP,01234,matsap@gmail.com,Savings,75000.0
+003,MATSAP FARELLE,01234,farelle@gmail.com,Savings,85000.0
+004,MATSAP FARELLE,01234,farelle@gmail.com,Savings,45000.0
+005,MAEVA,01234,maeva@gmail.com,Savings,115000.0
+006,MATSAP MAEVA FARELLE,12346,matsa@gmail.com,Savings,325000.0
+007,FARELLE,01234,farelle@gmail.com,Current,175000.0
